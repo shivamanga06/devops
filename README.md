@@ -1,3 +1,3 @@
 # devops
 
-This is begginign 
+Devops beginning 
